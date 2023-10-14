@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "5377d432e718c2277e447a750ff8b04bf3dbe9f53f217c8d71f73b1fb003ce9e"
+build_start_time: [1697289375, 595043000]
+build_end_time: [1697289391, 551692000]
+inputs:
+  "/Users/ThaoVo-local/Downloads/projects/Calculus/Calculus/CalculusApp.swift": [1697202157, 656740879]
+  "/Users/ThaoVo-local/Downloads/projects/Calculus/Calculus/CalculusViewModel.swift": [1697204356, 798156599]
+  "/Users/ThaoVo-local/Downloads/projects/Calculus/Calculus/ContentView.swift": [1697203487, 724806528]
+  "/Users/ThaoVo-local/Downloads/projects/Calculus/Calculus/Persistence.swift": [1697200933, 672608915]
+  ? "/Users/ThaoVo-local/Downloads/projects/Calculus/build/Calculus.build/Release-iphoneos/Calculus.build/DerivedSources/CoreDataGenerated/Calculus/Calculus+CoreDataModel.swift"
+  : [1697289375, 481896385]
+  ? "/Users/ThaoVo-local/Downloads/projects/Calculus/build/Calculus.build/Release-iphoneos/Calculus.build/DerivedSources/CoreDataGenerated/Calculus/Item+CoreDataClass.swift"
+  : [1697289375, 483799410]
+  ? "/Users/ThaoVo-local/Downloads/projects/Calculus/build/Calculus.build/Release-iphoneos/Calculus.build/DerivedSources/CoreDataGenerated/Calculus/Item+CoreDataProperties.swift"
+  : [1697289375, 484256990]

@@ -1,0 +1,24 @@
+{
+  "source": "/Users/ThaoVo-local/Downloads/projects/Calculus/Calculus/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "First number"
+      },
+      {
+        "comment": "",
+        "key": "Choose operator"
+      },
+      {
+        "comment": "",
+        "key": "Second number"
+      },
+      {
+        "comment": "",
+        "key": "Calculate"
+      }
+    ]
+  },
+  "version": 1
+}
