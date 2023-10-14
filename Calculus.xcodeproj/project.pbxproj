@@ -19,7 +19,6 @@
 		26991CC02AD9748A00F42EAD /* CalculusViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26991CBF2AD9748900F42EAD /* CalculusViewModel.swift */; };
 		3C4EAB9845BEB1921FEC3528 /* Pods_CalculusTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D67F6F6FC0EBFD2B2351544 /* Pods_CalculusTests.framework */; };
 		68F0A1C69EE0EA994BC1B035 /* Pods_Calculus_CalculusUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7697D60B90758CDCD9493D95 /* Pods_Calculus_CalculusUITests.framework */; };
-		941820A9DCAFD5D395948CF9 /* Pods_Calculus.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEE8D359667C44ABEEB28B38 /* Pods_Calculus.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,7 +69,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				941820A9DCAFD5D395948CF9 /* Pods_Calculus.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -165,7 +163,6 @@
 				DC8786824E1AF3B986F86E4D /* Pods-CalculusTests.debug.xcconfig */,
 				0BCF0F4BA1457342AC604F0F /* Pods-CalculusTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -554,6 +551,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -585,6 +583,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
